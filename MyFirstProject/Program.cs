@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyFirstProject
 {
@@ -10,6 +6,11 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!  Framwork");
+            Console.Write("jhg jfgjhjg jhg");
+            Console.Write("jhg jfgjhjg jhg++++++++++++++++");
+            Console.Write("jhg jfgjhjg jhg================");
+            Console.ReadLine();
         }
     }
 }
